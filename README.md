@@ -60,7 +60,7 @@ uv sync
 
 ```bash
 # 注意目录名不要出现中文，否则打包会失败
-python -m nuitka --onefile --windows-console-mode=disable --windows-icon-from-ico="sublime_text.ico" --enable-plugin=pyside6 --follow-import-to=need --output-dir=output main.py
+python -m nuitka --onefile --windows-console-mode=disable --windows-icon-from-ico="sublime_text.ico" --enable-plugin=pyside6 --follow-import-to=need --output-dir=output --output-filename="SublimeCracker" main.py
 ```
 
 ## 注意事项
