@@ -1,6 +1,6 @@
 # Sublime-Cracker
 
-一个用于 Sublime Text 的crack程序
+一个用于 Sublime Text 的crack程序，目前仅支持版本4200
 
 ## 项目介绍
 
